@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there
 
-<!--
-**StefanThoma/StefanThoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github page. 
+Here you find a selection of projects I have worked on, ranging from my masters thesis and research projects to toy data analysis problems from application procedures.
 
-Here are some ideas to get you started:
+## Current work & interests
+- Teaching Statistics & R to Psychologists
+- Open Science
+- Woodworking & Coffee
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research
+- Impact of VR on environmental attitudes
+- Measure of relevance in many-lab studies
+
+## Education
+- MSc in Statistics 
+- MSc in Psychology
