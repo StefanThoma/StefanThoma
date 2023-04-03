@@ -12,7 +12,7 @@ Here you'll find a selection of projects I've worked on, ranging from my  [maste
 - Impact of VR on environmental attitudes, investigating how immersive experiences can promote pro-environmental behaviors and attitudes.
 - Measure of relevance in many-lab studies, developing a novel statistical approach to quantify the impact of studies conducted across multiple labs.
 
-##Education
+## Education
 - MSc in Statistics, where I learned advanced statistical methods and how to apply them to real-world problems.
 - MSc in Psychology, where I explored the fascinating world of human behavior and cognition.
 
